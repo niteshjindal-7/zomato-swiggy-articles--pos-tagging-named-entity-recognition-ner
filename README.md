@@ -16,6 +16,6 @@ This exercise will talk through below topics which uses the scrapped food aggreg
 
 3. Syntantic Dependency Parsing
 
-Output files can be accessed at: 
+Output files can be accessed at:-
 
 https://drive.google.com/drive/folders/1mfKS79FfbmMHe_JYIo7qS1naSPSs4pFF?usp=sharing
