@@ -19,3 +19,7 @@ This exercise will talk through below topics which uses the scrapped food aggreg
 Output files can be accessed at:-
 
 https://drive.google.com/drive/folders/1mfKS79FfbmMHe_JYIo7qS1naSPSs4pFF?usp=sharing
+
+This exercise gives us a view of the popular keywords used in the zomato and swiggy articles/comments, which were used before the incident and after the incident. This will help in making a fine comparison between the before and after incident scenarios of zomato and swiggy aggregators to understand the impact of incident on these food aggregators. 
+
+
